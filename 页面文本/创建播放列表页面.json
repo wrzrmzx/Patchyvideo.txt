@@ -1,0 +1,17 @@
+{
+  "CHS": {
+    "title": "创建播放列表",
+    "create": "创建新列表",
+    "import": "导入已有列表"
+  },
+  "JPN": {
+    "title": "创建播放列表",
+    "create": "创建新列表",
+    "import": "导入已有列表"
+  },
+  "ENG": {
+    "title": "Create playlist",
+    "create": "Create a new list",
+    "import": "Import existing list"
+  }
+}
