@@ -9,9 +9,5 @@
     "noMsg": "暂无未读消息哦！",
     "replyTo": "回复了你的评论:"
   },
-  "ENG": {
-    "allMsg": "Unread Messages",
-    "noMsg": "NO UNREAD MESSAGE YET!",
-    "replyTo": "replied to you:"
-  }
+  "ENG": {}
 }

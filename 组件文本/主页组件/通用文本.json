@@ -51,9 +51,5 @@
       }
     }
   },
-  "ENG": {
-    "title": "Create playlist",
-    "create": "Create a new list",
-    "import": "Import existing list"
-  }
+  "ENG": {}
 }
