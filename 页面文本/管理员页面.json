@@ -1,0 +1,20 @@
+{
+  "CHS": {
+    "user_management": "用户管理",
+    "log_view": "日志查看",
+    "para_settings": "网站参数设置",
+    "scripts": "网站脚本"
+  },
+  "JPN": {
+    "user_management": "用户管理",
+    "log_view": "日志查看",
+    "para_settings": "网站参数设置",
+    "scripts": "网站脚本"
+  },
+  "ENG": {
+    "user_management": "User management",
+    "log_view": "Log view",
+    "para_settings": "Site parameter settings",
+    "scripts": "Web site scripts"
+  }
+}

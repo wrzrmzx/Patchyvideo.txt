@@ -1,0 +1,17 @@
+{
+  "CHS": {
+    "MsgCenter": "消息中心",
+    "UnreadMsg": "未读消息",
+    "AllMsg": "全部消息"
+  },
+  "JPN": {
+    "MsgCenter": "消息中心",
+    "UnreadMsg": "未读消息",
+    "AllMsg": "全部消息"
+  },
+  "ENG": {
+    "MsgCenter": "Message Center",
+    "UnreadMsg": "Unread Messages",
+    "AllMsg": "All Messages"
+  }
+}
