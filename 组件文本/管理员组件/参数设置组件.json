@@ -1,0 +1,27 @@
+{
+  "CHS": {
+    "para_settings": "网站参数设置",
+    "para_change": {
+      "title": "提示",
+      "value": "你确定要修改参数 {targetPara} 为：\n{newTargetPara}\n吗？"
+    },
+    "para_switch": {
+      "active-text": "编辑",
+      "inactive-text": "查看"
+    },
+    "para_update": "更新"
+  },
+  "JPN": {
+    "para_settings": "网站参数设置",
+    "para_change": {
+      "title": "提示",
+      "value": "你确定要修改参数 {targetPara} 为：\n{newTargetPara}\n吗？"
+    },
+    "para_switch": {
+      "active-text": "编辑",
+      "inactive-text": "查看"
+    },
+    "para_update": "更新"
+  },
+  "ENG": {}
+}
